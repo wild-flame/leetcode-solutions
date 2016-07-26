@@ -2,7 +2,7 @@
 
 Now start to work on leetcode for fun.
 
-Using ruby to start because ruby looks like a deligent language.
+Using ruby to start because ruby looks like a elegant language.
 
 Progress (2/344)
 
