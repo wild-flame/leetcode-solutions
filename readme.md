@@ -16,7 +16,7 @@ Progress (1/344)
 
 
 | # | Title | Solution |
-|-|-|-|
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./Ruby/Q123.rb)
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Working |
+|---|-------|----------|
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q123.rb)
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb)|
 
