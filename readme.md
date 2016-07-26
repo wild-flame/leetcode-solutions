@@ -1,0 +1,22 @@
+# Leetcode
+
+Now start to work on leetcode for fun.
+
+Using ruby to start because ruby looks like a deligent language.
+
+Progress (1/344)
+
+# Good reference 
+
+- Algorithms Notes | 演算法笔记 (Chinese)
+
+  http://www.csie.ntnu.edu.tw/~u91029/index.html
+
+# Chart 
+
+
+| # | Title | Solution |
+|-|-|-|
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./Ruby/Q123.rb)
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Working |
+
