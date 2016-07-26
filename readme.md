@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a deligent language.
 
-Progress (1/344)
+Progress (2/344)
 
 # Good reference 
 
