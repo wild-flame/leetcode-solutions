@@ -2,7 +2,7 @@
 
 Now start to work on leetcode for fun.
 
-Using ruby to start because ruby looks like a deligent language.
+Using ruby to start because ruby looks like a elegant language.
 
 Progress (2/344)
 
@@ -17,7 +17,7 @@ Progress (2/344)
 
 | # | Title | Solution |
 |---|-------|----------|
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q123.rb)
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb)
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb)|
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](.ruby/Q90/Q90.rb) |
 
