@@ -8,7 +8,7 @@ Progress (4/344)
 
 # Good reference 
 
-- Algorithms Notes | ¿¿¿¿¿ (Chinese)
+- Algorithms Notes | æ¼”ç®—æ³•ç¬”è®° (Chinese)
 
   http://www.csie.ntnu.edu.tw/~u91029/index.html
 
