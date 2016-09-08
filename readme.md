@@ -6,13 +6,13 @@ Using ruby to start because ruby looks like a elegant language.
 
 Progress (4/344)
 
-# Good reference 
+# Good reference
 
-- Algorithms Notes | ¿¿¿¿¿ (Chinese)
+- Algorithms Notes | æ¼”ç®—æ³•ç¬”è®° (Chinese)
 
   http://www.csie.ntnu.edu.tw/~u91029/index.html
 
-# Chart 
+# Chart
 
 
 | # | Title | Solution |
@@ -21,6 +21,7 @@ Progress (4/344)
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb)|
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Ruby](./ruby/Q108/Q108.rb) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
 
 # Two really good repository for reference
 
