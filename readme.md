@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (7/344)
+Progress (8/360)
 
 # Good reference
 
@@ -24,6 +24,7 @@ Progress (7/344)
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Ruby](./ruby/Q108/Q108.rb) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
+| 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./Ruby/Q3/Q3.rb) |
 
 # Two really good repository for reference
 
