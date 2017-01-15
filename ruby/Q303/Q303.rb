@@ -1,5 +1,3 @@
-require 'pry'
-
 # https://leetcode.com/problems/range-sum-query-immutable/
 #
 # Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
@@ -45,7 +43,7 @@ end
 
 # Your NumArray object will be instantiated and called as such:
 
-num_array = NumArray.new([-2,0,3,-5,2,-1])
-print num_array.sum_range(0, 2)
-print num_array.sum_range(0, 5)
-print rnum_array.sum_range(2, 5)
+# num_array = NumArray.new([-2,0,3,-5,2,-1])
+# print num_array.sum_range(0, 2)
+# print num_array.sum_range(0, 5)
+# print rnum_array.sum_range(2, 5)

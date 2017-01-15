@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (12/400)
+Progress (13/400)
 
 # Good reference
 
@@ -18,6 +18,7 @@ Progress (12/400)
 |---|-------|----------|
 | 357 | [count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Ruby](./ruby/Q357/Q357.rb) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Ruby](./ruby/Q343/Q343.rb) |
 | 303 | [Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [Ruby](./ruby/Q303/Q303.rb) |
 | 242 | [valid-anagram](https://leetcode.com/problems/valid-anagram/)|[Ruby](.ruby/Q242/Q242.rb)
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
