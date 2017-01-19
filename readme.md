@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (14/455)
+Progress (15/455)
 
 # Good reference
 
@@ -16,6 +16,7 @@ Progress (14/455)
 
 | # | Title | Solution |
 |---|-------|----------|
+| 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Ruby](./ruby/Q450/Q450.rb) |
 | 357 | [count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Ruby](./ruby/Q357/Q357.rb) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Ruby](./ruby/Q343/Q343.rb) |
