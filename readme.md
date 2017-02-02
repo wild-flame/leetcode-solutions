@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (15/455)
+Progress (29/ 466)
 
 # Good reference
 
@@ -31,6 +31,12 @@ Progress (15/455)
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
 | 8 | [String to Integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Ruby](./ruby/Q8/Q8.rb) |
 | 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./Ruby/Q3/Q3.rb) |
+
+Tips:
+
+There are some problems that I have done but don't have time to add it to this chart yet, so do check the code in ruby.
+
+- Todo: I'm planning on making a script to do this in the future.
 
 # Two really good repository for reference
 
