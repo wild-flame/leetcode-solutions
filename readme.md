@@ -31,10 +31,13 @@ Progress (29/ 466)
 | 235 | [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Ruby](./ruby/Q235/Q235.rb) |
 | 236 |
 | 230 |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Ruby](./ruby/Q229/Q229.rb) |
 | 222 |
 | 219 |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Ruby](./ruby/Q209/Q209.rb) |
 | 199 |
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Ruby](.ruby/Q148/Q148.rb) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb)|
 | 111 |
 | 110 |
@@ -47,7 +50,7 @@ Progress (29/ 466)
 
 Tips:
 
-There are some problems that I have done but don't have time to add it to this chart yet, so do check the code in ruby.
+There are some problems that I have done but don't have time to add it to this chart yet, so do check the code in `\ruby`.
 
 - Todo: I'm planning on making a script to do this in the future.
 
