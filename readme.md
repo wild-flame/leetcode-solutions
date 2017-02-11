@@ -24,6 +24,7 @@ Progress (29/ 466)
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Ruby](./ruby/Q343/Q343.rb) |
 | 337 |
+| 328 |
 | 303 | [Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [Ruby](./ruby/Q303/Q303.rb) |
 | 297 |
 | 287 |
@@ -37,7 +38,8 @@ Progress (29/ 466)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Ruby](./ruby/Q209/Q209.rb) |
 | 199 |
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Ruby](.ruby/Q148/Q148.rb) |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Ruby](./ruby/Q148/Q148.rb) |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Ruby](./ruby/Q147/Q147.rb) ET |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb)|
 | 111 |
 | 110 |
@@ -45,6 +47,7 @@ Progress (29/ 466)
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Ruby](./ruby/Q28/Q28.rb) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
+| 19 | [Remove nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Ruby](./ruby/Q19/Q19.rb) |
 | 8 | [String to Integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Ruby](./ruby/Q8/Q8.rb) |
 | 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./Ruby/Q3/Q3.rb) |
 

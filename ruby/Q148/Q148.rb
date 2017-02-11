@@ -16,7 +16,7 @@ def sort_list(head)
   mid = find_mid(head)
 
   l1,l2 = head, mid.next
-  mid.next = nil # remeber to break the list into two part
+  mid.next = nil # remeber to break the list into two parts
 
   l1 = sort_list(l1)
   l2 = sort_list(l2)  
@@ -26,7 +26,7 @@ def sort_list(head)
   return l
 end
 
-# find the mid point of a linked list 
+# find the mid point of a link-list 
 def find_mid(head)
   slow, fast = head, head
 
@@ -39,6 +39,7 @@ def find_mid(head)
   return slow
 end
 
+# merge two lists while keep the merged list sorted
 def merge_list(l1, l2)
   
   # Initial status
