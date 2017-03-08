@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (45/ 490)
+Progress (47/ 490)
 
 # Good reference
 
@@ -22,6 +22,7 @@ Progress (45/ 490)
 | 449 |
 | 442 |
 | 437 |
+| 401 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Ruby](./ruby/Q401/Q401.rb) |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/?tab=Description) | [Ruby](./ruby/Q373/Q373.rb) `TLE`|
 | 357 | [count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Ruby](./ruby/Q357/Q357.rb) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
@@ -31,15 +32,19 @@ Progress (45/ 490)
 | 303 | [Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [Ruby](./ruby/Q303/Q303.rb) |
 | 297 |
 | 287 |
-| 242 | [valid-anagram](https://leetcode.com/problems/valid-anagram/)|[Ruby](.ruby/Q242/Q242.rb)
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Ruby](./ruby/Q264/Q264.rb) | 
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Ruby](./ruby/Q263/Q263.rb) |
+| 242 | [valid-anagram](https://leetcode.com/problems/valid-anagram/)| [Ruby](./ruby/Q242/Q242.rb) |
 | 236 |
 | 235 | [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Ruby](./ruby/Q235/Q235.rb) |
 | 230 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Ruby](./ruby/Q229/Q229.rb) |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Ruby](./ruby/Q224/Q224.rb) | 
 | 222 |
 | 219 |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./ruby/Q215/Q215.rb)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Ruby](./ruby/Q209/Q209.rb) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Ruby](./ruby/Q202/Q202.rb) |
 | 199 |
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Ruby](./ruby/Q150/Q150.rb) |
