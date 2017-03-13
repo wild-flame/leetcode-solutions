@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (47/ 490)
+Progress (53/ 491)
 
 # Good reference
 
@@ -17,6 +17,7 @@ Progress (47/ 490)
 | # | Title | Solution |
 |---|-------|----------|
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Ruby](./ruby/Q503/Q503.rb) |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [Ruby](./ruby/Q483/Q483.rb) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Ruby](./ruby/Q451/Q451.rb)
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Ruby](./ruby/Q450/Q450.rb) |
 | 449 |
@@ -29,6 +30,7 @@ Progress (47/ 490)
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Ruby](./ruby/Q343/Q343.rb) |
 | 337 |
 | 328 |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Ruby](./ruby/Q313/Q313.rb) |
 | 303 | [Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [Ruby](./ruby/Q303/Q303.rb) |
 | 297 |
 | 287 |
@@ -46,7 +48,9 @@ Progress (47/ 490)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Ruby](./ruby/Q209/Q209.rb) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Ruby](./ruby/Q202/Q202.rb) |
 | 199 |
+| 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Ruby](./ruby/Q172/Q172.rb) |
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Ruby](./ruby/Q166/Q166.rb) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Ruby](./ruby/Q150/Q150.rb) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Ruby](./ruby/Q148/Q148.rb) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Ruby](./ruby/Q147/Q147.rb) TLE |
