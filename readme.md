@@ -18,6 +18,7 @@ Progress (53/ 491)
 |---|-------|----------|
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Ruby](./ruby/Q503/Q503.rb) |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [Ruby](./ruby/Q483/Q483.rb) |
+| 475 | [Heaters](https://leetcode.com/problems/heaters/) | [Ruby](./ruby/Q475/Q475.rb) `TODO` |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Ruby](./ruby/Q451/Q451.rb)
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Ruby](./ruby/Q450/Q450.rb) |
 | 449 |
@@ -34,6 +35,7 @@ Progress (53/ 491)
 | 303 | [Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [Ruby](./ruby/Q303/Q303.rb) |
 | 297 |
 | 287 |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Ruby](./ruby/Q278/Q278.rb) |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Ruby](./ruby/Q264/Q264.rb) | 
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Ruby](./ruby/Q263/Q263.rb) |
 | 242 | [valid-anagram](https://leetcode.com/problems/valid-anagram/)| [Ruby](./ruby/Q242/Q242.rb) |
