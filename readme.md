@@ -60,13 +60,14 @@ Progress (53/ 491)
 | 111 |
 | 110 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Ruby](./ruby/Q108/Q108.rb) |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
-| 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Ruby](./ruby/Q28/Q28.rb) |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
-| 19 | [Remove nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Ruby](./ruby/Q19/Q19.rb) |
-| 14 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Ruby](./ruby/Q14/Q14.rb) |
-| 8 | [String to Integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Ruby](./ruby/Q8/Q8.rb) |
-| 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./Ruby/Q3/Q3.rb) |
+| 90  | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
+| 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Ruby](./ruby/Q74/Q74.rb) |
+| 28  | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Ruby](./ruby/Q28/Q28.rb) |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
+| 19  | [Remove nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Ruby](./ruby/Q19/Q19.rb) |
+| 14  | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Ruby](./ruby/Q14/Q14.rb) |
+| 8   | [String to Integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Ruby](./ruby/Q8/Q8.rb) |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./Ruby/Q3/Q3.rb) |
 
 Tips:
 
