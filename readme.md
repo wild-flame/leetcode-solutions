@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (53/ 491)
+Progress (63/ 499)
 
 # Good reference
 
@@ -24,7 +24,8 @@ Progress (53/ 491)
 | 449 |
 | 442 |
 | 437 |
-| 401 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Ruby](./ruby/Q401/Q401.rb) |
+| 401 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Ruby](./ruby/Q402/Q402.rb) |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Ruby](./ruby/Q401/Q401.rb) |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/?tab=Description) | [Ruby](./ruby/Q373/Q373.rb) `TLE`|
 | 357 | [count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Ruby](./ruby/Q357/Q357.rb) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
@@ -39,6 +40,7 @@ Progress (53/ 491)
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Ruby](./ruby/Q264/Q264.rb) | 
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Ruby](./ruby/Q263/Q263.rb) |
 | 242 | [valid-anagram](https://leetcode.com/problems/valid-anagram/)| [Ruby](./ruby/Q242/Q242.rb) |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Ruby](./ruby/Q240/Q240.rb) | 
 | 236 |
 | 235 | [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Ruby](./ruby/Q235/Q235.rb) |
 | 230 |
@@ -50,17 +52,22 @@ Progress (53/ 491)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Ruby](./ruby/Q209/Q209.rb) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Ruby](./ruby/Q202/Q202.rb) |
 | 199 |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Ruby](./ruby/Q174/Q174.rb) |
 | 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Ruby](./ruby/Q172/Q172.rb) |
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Ruby](./ruby/Q166/Q166.rb) |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Ruby](./ruby/Q154/Q154.rb) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Ruby](./ruby/Q153/Q153.rb) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Ruby](./ruby/Q150/Q150.rb) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Ruby](./ruby/Q148/Q148.rb) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Ruby](./ruby/Q147/Q147.rb) TLE |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb)|
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb) |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Ruby](./ruby/Q131/Q131.rb) | 
 | 111 |
 | 110 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Ruby](./ruby/Q108/Q108.rb) |
 | 90  | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
+| 78  | [Subsets](https://leetcode.com/problems/subsets) | [Ruby](./ruby/Q78/Q78.rb) |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Ruby](./ruby/Q74/Q74.rb) |
 | 28  | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Ruby](./ruby/Q28/Q28.rb) |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
