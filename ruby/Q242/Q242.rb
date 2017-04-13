@@ -1,8 +1,10 @@
+# 2017-04-09 - revised version
+# David Lin
+# Method: Use hash table to solve the problem
+
 # @param {String} s
 # @param {String} t
 # @return {Boolean}
-#
-
 def is_anagram(s, t)
   h_s = Hash.new(0)
   s.each_char do 
@@ -26,7 +28,7 @@ if __FILE__ == $0
   is_anagram("rat", "car") #false
 end
 
-# https://leetcode.com/articles/valid-anagram/
+# 242 - https://leetcode.com/articles/valid-anagram/
 #
 # Actually this question has another approach which use sorting
 # 

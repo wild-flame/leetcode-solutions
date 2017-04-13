@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (63/ 499)
+Progress (70/ 511)
 
 # Good reference
 
@@ -16,6 +16,9 @@ Progress (63/ 499)
 
 | # | Title | Solution |
 |---|-------|----------|
+| 542 | [01 Matrix/](https://leetcode.com/problems/01-matrix/) | [Ruby](./ruby/Q542/Q542.rb) |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Ruby](./ruby/Q513/Q513.rb) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Ruby](./ruby/Q503/Q503.rb) |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [Ruby](./ruby/Q483/Q483.rb) |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [Ruby](./ruby/Q475/Q475.rb) `TODO` |
@@ -56,17 +59,22 @@ Progress (63/ 499)
 | 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Ruby](./ruby/Q172/Q172.rb) |
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Ruby](./ruby/Q166/Q166.rb) |
+| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Ruby](./ruby/Q164/Q164.rb) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Ruby](./ruby/Q154/Q154.rb) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Ruby](./ruby/Q153/Q153.rb) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Ruby](./ruby/Q150/Q150.rb) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Ruby](./ruby/Q148/Q148.rb) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Ruby](./ruby/Q147/Q147.rb) TLE |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb) |
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Ruby](./ruby/Q140/Q140.rb) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Ruby](./ruby/Q131/Q131.rb) | 
 | 111 |
 | 110 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Ruby](./ruby/Q108/Q108.rb) |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Ruby](./ruby/Q107/Q107.rb) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Ruby](./ruby/Q101/Q101.rb) |
 | 90  | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
+| 89  | [Gray Code](https://leetcode.com/problems/gray-code/) | [Ruby](./ruby/Q89/Q89.rb) |
 | 78  | [Subsets](https://leetcode.com/problems/subsets) | [Ruby](./ruby/Q78/Q78.rb) |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Ruby](./ruby/Q74/Q74.rb) |
 | 28  | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Ruby](./ruby/Q28/Q28.rb) |
