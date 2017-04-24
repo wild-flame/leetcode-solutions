@@ -20,6 +20,7 @@ Progress (70/ 511)
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Ruby](./ruby/Q513/Q513.rb) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Ruby](./ruby/Q503/Q503.rb) |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Ruby](./ruby/Q494/Q494.rb) `TD`|
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [Ruby](./ruby/Q483/Q483.rb) |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [Ruby](./ruby/Q475/Q475.rb) `TODO` |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Ruby](./ruby/Q451/Q451.rb)
@@ -68,6 +69,7 @@ Progress (70/ 511)
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Ruby](./ruby/Q144/Q144.rb) |
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Ruby](./ruby/Q140/Q140.rb) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Ruby](./ruby/Q131/Q131.rb) | 
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Ruby](./ruby/Q114/Q114.rb) |
 | 111 |
 | 110 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Ruby](./ruby/Q108/Q108.rb) |
@@ -77,6 +79,7 @@ Progress (70/ 511)
 | 89  | [Gray Code](https://leetcode.com/problems/gray-code/) | [Ruby](./ruby/Q89/Q89.rb) |
 | 78  | [Subsets](https://leetcode.com/problems/subsets) | [Ruby](./ruby/Q78/Q78.rb) |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Ruby](./ruby/Q74/Q74.rb) |
+| 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Ruby](./ruby/Q70/Q70.rb) |
 | 28  | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Ruby](./ruby/Q28/Q28.rb) |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
 | 19  | [Remove nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Ruby](./ruby/Q19/Q19.rb) |
