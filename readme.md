@@ -34,6 +34,7 @@ Progress (70/ 511)
 | 357 | [count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Ruby](./ruby/Q357/Q357.rb) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Ruby](./ruby/Q343/Q343.rb) |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Ruby]./ruby/Q338/Q338.rb) | 
 | 337 |
 | 328 |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Ruby](./ruby/Q313/Q313.rb) |
