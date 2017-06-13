@@ -16,6 +16,7 @@ Progress (70/ 511)
 
 | # | Title | Solution |
 |---|-------|----------|
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Ruby](./ruby/Q560/Q560.rb) |
 | 542 | [01 Matrix/](https://leetcode.com/problems/01-matrix/) | [Ruby](./ruby/Q542/Q542.rb) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Ruby](./ruby/Q513/Q513.rb) |
@@ -53,7 +54,8 @@ Progress (70/ 511)
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Ruby](./ruby/Q224/Q224.rb) | 
 | 222 |
 | 219 |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./ruby/Q215/Q215.rb)
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./ruby/Q215/Q215.rb) |
+| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Ruby](./ruby/Q211/Q211.rb) `TODO` |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Ruby](./ruby/Q209/Q209.rb) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Ruby](./ruby/Q202/Q202.rb) |
 | 199 |

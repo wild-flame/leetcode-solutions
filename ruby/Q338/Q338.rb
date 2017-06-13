@@ -6,8 +6,6 @@
 # @param {Integer} num
 # @return {Integer[]}
 def count_bits(num)
-  return [] if num == 0
-
   res = [0]
 
   while res.length <= num
