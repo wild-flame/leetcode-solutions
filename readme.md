@@ -16,6 +16,7 @@ Progress (70/ 511)
 
 | # | Title | Solution |
 |---|-------|----------|
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description) | [Ruby](./ruby/Q598.rb) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Ruby](./ruby/Q560/Q560.rb) |
 | 542 | [01 Matrix/](https://leetcode.com/problems/01-matrix/) | [Ruby](./ruby/Q542/Q542.rb) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
@@ -35,9 +36,10 @@ Progress (70/ 511)
 | 357 | [count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Ruby](./ruby/Q357/Q357.rb) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Ruby](./ruby/Q343/Q343.rb) |
-| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Ruby]./ruby/Q338/Q338.rb) | 
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Ruby](./ruby/Q338/Q338.rb) | 
 | 337 |
 | 328 |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Ruby](.ruby/Q326/Q326.rb) |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Ruby](./ruby/Q313/Q313.rb) |
 | 303 | [Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [Ruby](./ruby/Q303/Q303.rb) |
 | 297 |
@@ -75,11 +77,13 @@ Progress (70/ 511)
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Ruby](./ruby/Q114/Q114.rb) |
 | 111 |
 | 110 |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Ruby](./ruby/Q109/Q109.rb) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Ruby](./ruby/Q108/Q108.rb) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Ruby](./ruby/Q107/Q107.rb) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Ruby](./ruby/Q101/Q101.rb) |
 | 90  | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Ruby](./ruby/Q90/Q90.rb) |
 | 89  | [Gray Code](https://leetcode.com/problems/gray-code/) | [Ruby](./ruby/Q89/Q89.rb) |
+| 86  | [Partition List](https://leetcode.com/problems/partition-list/) | [Ruby](./ruby/Q86/Q86.rb) `TODO`|
 | 78  | [Subsets](https://leetcode.com/problems/subsets) | [Ruby](./ruby/Q78/Q78.rb) |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Ruby](./ruby/Q74/Q74.rb) |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Ruby](./ruby/Q70/Q70.rb) |
@@ -87,8 +91,9 @@ Progress (70/ 511)
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
 | 19  | [Remove nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Ruby](./ruby/Q19/Q19.rb) |
 | 14  | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Ruby](./ruby/Q14/Q14.rb) |
+| 12  | [integer-to-roman](https://leetcode.com/problems/integer-to-roman/) | [Ruby](./ruby/Q12/Q12.rb) |
 | 8   | [String to Integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Ruby](./ruby/Q8/Q8.rb) |
-| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./Ruby/Q3/Q3.rb) |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./ruby/Q3/Q3.rb) |
 
 Tips:
 
