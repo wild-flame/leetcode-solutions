@@ -1,0 +1,4 @@
+- [如何用 C++ 在 10 行内写出八皇后？](https://www.zhihu.com/question/28543312)
+- http://programming.im.ncnu.edu.tw/exapmle_for_java/9.htm
+- N皇后问题的两个最高效的算法(http://blog.csdn.net/hackbuteer1/article/details/6657109)
+- [10394 用位运算速解 n 皇后问题](https://zhuanlan.zhihu.com/p/22846106) 
