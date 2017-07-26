@@ -4,7 +4,7 @@ Now start to work on leetcode for fun.
 
 Using ruby to start because ruby looks like a elegant language.
 
-Progress (81/620)
+Progress (85/624)
 
 # Good reference
 
@@ -16,7 +16,8 @@ Progress (81/620)
 
 | # | Title | Solution |
 |---|-------|----------|
-| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description) | [Ruby](./ruby/Q598.rb) |
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Ruby](./ruby/Q611/Q611.rb) |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description) | [Ruby](./ruby/Q598/Q598.rb) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Ruby](./ruby/Q560/Q560.rb) |
 | 542 | [01 Matrix/](https://leetcode.com/problems/01-matrix/) | [Ruby](./ruby/Q542/Q542.rb) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
@@ -38,6 +39,7 @@ Progress (81/620)
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Ruby](./ruby/Q343/Q343.rb) |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Ruby](./ruby/Q338/Q338.rb) | 
 | 337 |
+| 331 | [Verify Preorder Serialization of A Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Ruby](./ruby/Q331/Q331.rb) |
 | 328 |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Ruby](.ruby/Q326/Q326.rb) |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Ruby](./ruby/Q313/Q313.rb) |
