@@ -17,8 +17,9 @@ Progress (85/624)
 | # | Title | Solution |
 |---|-------|----------|
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Ruby](./ruby/Q611/Q611.rb) |
-| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description) | [Ruby](./ruby/Q598/Q598.rb) |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Ruby](./ruby/Q598/Q598.rb) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Ruby](./ruby/Q560/Q560.rb) |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [Ruby](./ruby/Q554/Q554.rb) |
 | 542 | [01 Matrix/](https://leetcode.com/problems/01-matrix/) | [Ruby](./ruby/Q542/Q542.rb) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Ruby](./ruby/Q513/Q513.rb) |
