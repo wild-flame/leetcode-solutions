@@ -1,5 +1,5 @@
-# 2017-07-31
 # David Lin
+# 2017-07-31
 # Method: Hashmap
 # Time Complexity: O(n)
 
