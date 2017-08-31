@@ -18,6 +18,7 @@ Progress (89/627)
 |---|-------|----------|
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Ruby](./ruby/Q647/Q647.rb) |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Ruby](./ruby/Q611/Q611.rb) |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Go](./go/Q599/Q599.go) |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Ruby](./ruby/Q598/Q598.rb) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Ruby](./ruby/Q560/Q560.rb) |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [Ruby](./ruby/Q554/Q554.rb) |
@@ -119,3 +120,7 @@ There are some problems that I have done but don't have time to add it to this c
 mostly in javascript:
 
 - [LeetCode-Solutions](https://github.com/iplus26/LeetCode-Solutions)
+
+in go:
+
+- [Leetcode-go](https://github.com/hitzzc/go-leetcode)
