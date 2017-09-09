@@ -25,6 +25,7 @@ Progress (89/627)
 | 542 | [01 Matrix/](https://leetcode.com/problems/01-matrix/) | [Ruby](./ruby/Q542/Q542.rb) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
 | 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii) | [Ruby](./ruby/Q522/Q522.rb) |
+| 520 | [Detect Capital])(https://leetcode.com/problems/detect-capital/description/) | [Go](./go/Q520/Q520.go) [Javascript](./javascript/Q520/Q520.js) |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Ruby](./ruby/Q513/Q513.rb) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Ruby](./ruby/Q503/Q503.rb) |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Ruby](./ruby/Q494/Q494.rb) `TD`|
@@ -67,6 +68,7 @@ Progress (89/627)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Ruby](./ruby/Q209/Q209.rb) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Ruby](./ruby/Q202/Q202.rb) |
 | 199 |
+| 191 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) | [Ruby](./ruby/Q191/Q191.rb) |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Ruby](./ruby/Q174/Q174.rb) |
 | 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Ruby](./ruby/Q172/Q172.rb) |
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
