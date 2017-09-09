@@ -25,7 +25,7 @@ Progress (89/627)
 | 542 | [01 Matrix/](https://leetcode.com/problems/01-matrix/) | [Ruby](./ruby/Q542/Q542.rb) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description) | [Ruby](./ruby/Q524/Q524.rb) `TBD` |
 | 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii) | [Ruby](./ruby/Q522/Q522.rb) |
-| 520 | [Detect Capital])(https://leetcode.com/problems/detect-capital/description/) | [Go](./go/Q520/Q520.go) [Javascript](./javascript/Q520/Q520.js) |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Go](./go/Q520/Q520.go), [JS](./javascript/Q520/Q520.js) |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Ruby](./ruby/Q513/Q513.rb) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Ruby](./ruby/Q503/Q503.rb) |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Ruby](./ruby/Q494/Q494.rb) `TD`|
@@ -102,7 +102,7 @@ Progress (89/627)
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Ruby](./ruby/Q26/Q26.rb) |
 | 19  | [Remove nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Ruby](./ruby/Q19/Q19.rb) |
 | 18  | [4Sum](https://leetcode.com/problems/4sum/) | [Ruby](./ruby/Q18/Q18.rb) |
-| 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | [Javascript](./javascript/Q16/Q16.js) |
+| 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | [JS](./javascript/Q16/Q16.js) |
 | 14  | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Ruby](./ruby/Q14/Q14.rb) |
 | 12  | [integer-to-roman](https://leetcode.com/problems/integer-to-roman/) | [Ruby](./ruby/Q12/Q12.rb) |
 | 8   | [String to Integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Ruby](./ruby/Q8/Q8.rb) |
