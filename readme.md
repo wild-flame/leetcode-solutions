@@ -38,6 +38,7 @@ Progress (89/627)
 | 437 |
 | 401 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Ruby](./ruby/Q402/Q402.rb) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Ruby](./ruby/Q401/Q401.rb) |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Go](./go/Q394/Q394.go) |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/?tab=Description) | [Ruby](./ruby/Q373/Q373.rb) `TLE`|
 | 357 | [count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Ruby](./ruby/Q357/Q357.rb) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Ruby](./ruby/Q344/Q344.rb) |
