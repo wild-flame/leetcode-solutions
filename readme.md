@@ -18,6 +18,7 @@ Progress (89/627)
 |---|-------|----------|
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Ruby](./ruby/Q647/Q647.rb) |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Ruby](./ruby/Q611/Q611.rb) |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Ruby](./ruby/Q606/Q606.rb) |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Go](./go/Q599/Q599.go) |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Ruby](./ruby/Q598/Q598.rb) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Ruby](./ruby/Q560/Q560.rb) |
