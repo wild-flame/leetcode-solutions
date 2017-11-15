@@ -76,6 +76,7 @@ Progress (89/627)
 | 167 | [Two Sum II - Input array is sorted  QuestionEditorial Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Ruby](./ruby/Q167/Q167.rb) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Ruby](./ruby/Q166/Q166.rb) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Ruby](./ruby/Q164/Q164.rb) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Javascript](./javascript/Q160/Q160.rb) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Ruby](./ruby/Q154/Q154.rb) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Ruby](./ruby/Q153/Q153.rb) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Ruby](./ruby/Q150/Q150.rb) |
@@ -108,7 +109,7 @@ Progress (89/627)
 | 14  | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Ruby](./ruby/Q14/Q14.rb) |
 | 12  | [integer-to-roman](https://leetcode.com/problems/integer-to-roman/) | [Ruby](./ruby/Q12/Q12.rb) |
 | 8   | [String to Integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Ruby](./ruby/Q8/Q8.rb) |
-| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./ruby/Q3/Q3.rb) |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Ruby](./ruby/Q3/Q3.rb) [Go](./go/Q3/Q3.go) |
 
 Tips:
 
