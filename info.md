@@ -1,21 +1,87 @@
-# Leetcode Solutions with JavaScript
-Update time: Tue Dec 12 2017 21:50:42 GMT+0800 (CST)
-I have solved **102 / 660** problems while **120** problems are still locked.
+# Leetcode Solutions chart generated with JavaScript
+Update time: Sun Apr 01 2018 18:04:37 GMT+0800 (CST)
+I have solved **104 / 726** problems while **133** problems are still locked.
 (Notes: :blue_book: means you need to buy a book from Leetcode)
 | # | Title | Source Code | Explanation | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 829 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | | | Easy |
+| 828 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | | | Hard |
+| 827 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | | | Medium |
+| 826 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | | | Medium |
+| 825 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | | | Medium |
+| 824 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | | | Easy |
+| 823 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | | | Hard |
+| 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | | | Easy |
+| 821 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | | | Hard |
+| 820 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | | | Medium |
+| 819 | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | | | Medium |
+| 818 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/) :blue_book: | | | Easy |
+| 815 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | | | Medium |
+| 814 | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | | | Hard |
+| 813 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | | | Medium |
+| 812 | [Rotate String](https://leetcode.com/problems/rotate-string/) | | | Easy |
+| 811 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | | | Medium |
+| 810 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | | | Medium |
+| 809 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | | | Hard |
+| 808 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | | | Medium |
+| 807 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | | | Medium |
+| 806 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | | | Medium |
+| 805 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | | | Medium |
+| 804 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | | | Easy |
+| 803 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | | | Medium |
+| 802 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | | | Hard |
+| 801 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | | | Medium |
+| 800 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | | | Easy |
+| 799 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | | | Easy |
+| 798 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | | | Hard |
+| 797 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | | | Medium |
+| 796 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | | | Hard |
+| 795 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | | | Medium |
+| 794 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | | | Hard |
+| 793 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | | | Medium |
+| 791 | [Split BST](https://leetcode.com/problems/split-bst/) :blue_book: | | | Medium |
+| 790 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | | | Medium |
+| 788 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) :blue_book: | | | Hard |
+| 787 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | | | Hard |
+| 785 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) :blue_book: | | | Hard |
+| 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | | | Easy |
+| 781 | [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | | | Hard |
+| 780 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | | | Medium |
+| 779 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | | | Hard |
+| 778 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | | | Medium |
+| 777 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | | | Easy |
+| 770 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | | | Hard |
+| 769 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | | | Medium |
+| 768 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | | | Medium |
+| 767 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | | | Easy |
+| 763 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | | | Hard |
+| 762 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) :blue_book: | | | Easy |
+| 761 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) :blue_book: | | | Hard |
+| 760 | [Bold Words in String](https://leetcode.com/problems/bold-words-in-string/) :blue_book: | | | Easy |
+| 759 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | | | Hard |
+| 757 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | | | Medium |
+| 756 | [Pour Water](https://leetcode.com/problems/pour-water/) :blue_book: | | | Medium |
+| 755 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | | | Medium |
+| 754 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | | | Hard |
+| 753 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | | | Medium |
+| 752 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) :blue_book: | | | Easy |
+| 751 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) :blue_book: | | | Medium |
+| 750 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | | | Hard |
+| 749 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | | | Medium |
+| 748 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | | | Easy |
+| 747 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | | | Easy |
 | 746 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | | | Hard |
 | 745 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | | | Easy |
 | 744 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | | | Medium |
-| 743 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | | | Medium |
+| 743 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) :blue_book: | | | Medium |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | | | Hard |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | | | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | | | Medium |
 | 738 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | | | Medium |
-| 737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) | | | Medium |
+| 737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) :blue_book: | | | Medium |
 | 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) | | | Hard |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | | | Medium |
-| 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | | | Easy |
+| 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) :blue_book: | | | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | | | Easy |
 | 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | | | Hard |
 | 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | | | Medium |
@@ -162,7 +228,7 @@ I have solved **102 / 660** problems while **120** problems are still locked.
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | | Easy |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) |  [ruby](https://github.com/wild-flame/leetcode-solutions/blob/master//Q542.rb) | | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | | | Easy |
-| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | | | Medium |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |  [ruby](https://github.com/wild-flame/leetcode-solutions/blob/master//Q540.rb) | | Medium |
 | 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | | | Medium |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | | | Easy |
 | 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | | | Medium |
@@ -207,7 +273,7 @@ I have solved **102 / 660** problems while **120** problems are still locked.
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | | | Hard |
 | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) :blue_book: | | | Medium |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | | | Medium |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | | | Easy |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |  [javascript](https://github.com/wild-flame/leetcode-solutions/blob/master//Q485.js) | | Easy |
 | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) :blue_book: | | | Medium |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) |  [ruby](https://github.com/wild-flame/leetcode-solutions/blob/master//Q483.rb) | | Hard |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | | | Easy |
