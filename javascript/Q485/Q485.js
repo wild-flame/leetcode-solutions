@@ -18,7 +18,37 @@ var findMaxConsecutiveOnes = function(nums) {
             // Do Nothing
         }
         maxConsecutive = Math.max(maxConsecutive, curConsecutive)
-        console.log(maxConsecutive)
     })
+    return maxConsecutive
+};
+
+
+
+
+/**
+ * David Lin
+ * 2017.04.01
+ *
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findMaxConsecutiveOnes = function(nums) {
+    if (nums.length === 0)  { 
+        return 0
+    }
+    
+    var maxConsecutive = 0
+    var curConsecutive = 0
+    for (i=0; i<nums.length; i++) {
+        if (nums[i] === 1) {
+            curConsecutive = curConsecutive + 1
+            maxConsecutive = Math.max(curConsecutive, maxConsecutive)
+        } else if (nums[i] === 0) {
+            curConsecutive = 0
+        } else {
+            throw "unknown digits"
+        }
+    }
+
     return maxConsecutive
 };
